@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/padang"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ef5350"
+            android:padding="16dp"
+            android:text="Padang"
+            android:textColor="#fff"
+            android:textSize="24sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:text="    Padang city, is one of Indonesian city that located in West Sumatra province and become the capital city of the same province."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Dated back to the history, Padang since 16th century was already become the trading center. During 16th and 17th century, pepper cultivation was growth and traded to India, Portugal, UK and Netherlands. At that time, properly in 1663, Padang was under the Dutch colonialism rules. Up to approximately 1780 the most important trade product was gold, originating from the gold mines in the region. When the mines where exhausted, the emphasis turned to other products such as coffee, salts and textiles."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="     At Independence day, or around 1940s, Padang was start to grow and coffee become the important thing to trade after copra."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Padang was ever experienced twice tsunami tragedy that followed by the earthquake, which was in 1797 and 1883. The tragedy was cause hundred house washed away and some victims been killed. Another tragic happened in September 2009 by the huge earthquake and become a national tragedy."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    The indigenous of Padang is Minangkabau people. Other ethnics that live in Padang are, Batak, Nias, Javanese, Tionghoa, and India. Those ethnics are living in diversities within their own culture under the same roof of Padang."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Beside doing the agricultural things to make a living, Padang people also working in PT. Semen Padang, a company that build in 1910. This company was the first cement factory in Indonesia, even in Southeast Asia."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    The famous folk tale that coming from Padang is the legend of Siti Nurbaya and Malin Kundang. Those legends are nowadays become popular destination that sometimes visited by the tourists. Furthermore, Padang is a city with lots of destination that ready to be explored."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    In Padang, the visitors can arrive to the Museum Adityawarman to check out all the things about Minangkabau tradition. some folk tale like Cerita Sumarak Mudo, or the traditional theater called Randai."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    While on Marine tourism objects, there are some gorgeous islands and some beaches; Pisang Ketek Island, Pisang Gadang Island, Setan Ketek Island, Kasiak Island and Pandan Island. Pasir Gadang island, Bindalang Island. The beaches are Beremas, Jambak, Carolina, Aie Manih and Nirwana Beach. There are also Padang beach, Siti Nurbaya park, Taluak Bungus, Pnorama Sitinjau Laut II, Panorama Sitinjau Laut I, Kelalawar cave, Taman Hutan Raya Bung Hatta, Lubuak Paraku and many more."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Moreover, there are also some cultural and heritage destinations like; Tugu Bagindo Azis Chan, Tugu Pemuda Young Sumatera, Gedung Balai Kota, Museum Adityawarman, Kampung Cina and Gedung Joeang. Hoet Tjo temple, Padang Old City and Old Mosque Ganting."
+            android:textSize="15sp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/backPadang"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="back"/>
+
+            <Button
+                android:id="@+id/nextPadang"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="next"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

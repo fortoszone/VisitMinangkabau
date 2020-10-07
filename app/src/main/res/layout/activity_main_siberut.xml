@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/siberut"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#26c6da"
+            android:padding="16dp"
+            android:text="Siberut Island"
+            android:textColor="#fff"
+            android:textSize="24sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:text="    Becomes part of Mentawai Islands, Siberut is the largest island at the northernmost and becomes the main important island for Mentawai People.  The Mentawai tribe still maintains the lifestyle and traditions passed down from their ancestors from thousands of years ago. They live in houses locally called ‘uma’, made from wooden scaffolds which house contains several families each."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Siberut is located in the Indian Ocean, approximately 100 km off the west coast of West Sumatra, and separated from the main island by the Mentawai Strait. The island lies some 155 km from the province’s capital city of Padang. Those who love nature and craving for beautiful scenery, Pulau Siberut invites the adventure thirsty to come and explore all the wealth it possesses, including the rich culture, customs, and exotic tropical environment."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Exploring Siberut can be done by trekking in the protected tropical forests and this very much recommended, while, enjoying the scenery around the island, that is another interesting adventure to be had. Other activities during staying in Siberut is boating, rowing, trekking through the (sometimes muddy) forest paths, enjoying the beauty of the rainforest, as well as observations of the rare species of both plants and animals."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Much of the island is protected and it has been set to become a national park since 1993, known by the name of Taman Nasional Siberut. The Siberut National Park is one of the Biosphere Reserves working in conjunction with the UNESCO Man and the Biosphere Program (MAB)."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    The Siberut National Park is home to four types of wildlife primates found only in Siberut, they are Bokkoi (Macaca pagensis), Lutung Mentawai / Joja (Presbytis Potenziani Siberug), Bilou (Hylobates klossii), and Simakobu (Nasalis siberu concolor) . In addition to these endemic primates, there are also 4 different types of endemic squirrel species, 17 mammals, and 130 species of birds (4 of which are endemic)."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    To explore the Siberut National Park, it will be better to have visiting report on the National Park Office, at Kantor Taman Nasional Siberut. Jl. Khatib Sulaiman No 46. Gedung ex. Kanwil Kehutanan lt. 3 Padang, West Sumatra."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    From Padang’s Minangkabau International Airport, which is the primary airport of West Sumatra located about 20 km from Padang, you will make your way to the port at Muara Padang by bus or taxi. From there, the visitors using the ferry or boat to cross the Indian Ocean to Pulau Siberut. Located approximately 155 km from Padang,  the trip to Siberut will take approximately 12 hours of traveling by ferry. The ferry will take you directly to Muara Siberut, the port on Pulau Siberut, the only island in the Mentawai Islands which has a regular ferry to Padang, West Sumatra."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    If you depart from the Minangkabau International Airport there are small rental planes available on Tiger Air or SMAC which can take you toTuapejat on Pulau Sipora, part of the Mentawai cluster and near to Pulau Siberut. After that, you can rent a boat for a trip of around 3 to 4 hours to Muara Siberut on Pulau Siberut."
+            android:textSize="15sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/backSiberut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="back"/>
+
+            <Button
+                android:id="@+id/nextSiberut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="next"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

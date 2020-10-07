@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/sawahlunto"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#5c6bc0"
+            android:padding="16dp"
+            android:text="Sawahlunto"
+            android:textColor="#fff"
+            android:textSize="24sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:text="    Sawahlunto is one of provinces in Indonesia, precisely in West Sumatera, Indonesia. This town is located in 95KM Northeast of Padang and surrounded by 3 districts in West Sumatera, which is Tanah Datar, Solok and Sijunjung."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Sawahlunto is divided into 4 sub-districts and it has 273,45 km², with populated by 54.000 people. During Dutch civilization, Sawahlunto was popular as coal mining town. After being a death town, during the closing of the mining, Sawahlunto nowadays becomes the growing city with multi-ethnicity inside the community, and awarded as the best old city in Indonesia."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Sawahlunto was build since 1888, and there are so many old building standing still today, witnessing the times and facing many tragedies inside the city. Most of the buildings are decided to be cultural heritage building by local government and become one of attractions in this city."
+            android:textSize="15sp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/backSawahlunto"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="back"/>
+
+            <Button
+                android:id="@+id/nextSawahlunto"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="next"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/harau"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#8d6e63"
+            android:padding="16dp"
+            android:text="Harau Valley"
+            android:textColor="#fff"
+            android:textSize="24sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:text="    The Harau Valley is sometimes known as the Yosemite of Indonesia. Here, gibbons and macaques and a variety of wildlife still roam freely as this area in the Lima Puluh Kota district has actually been designated a nature conservation, covering some 669 acres. Its beautiful landscape, its peaceful serenity interrupted only by the calls of the macaques and the chirping of birds, make the Harau Valley the perfect holiday getaway."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    The steep rock walls here are not only a natural invitation to photographers, but they also attract rock climbers who consider climbing these steep walls a significant challenge. There are 300 spots from where to climb. Looking up, the clear blue sky above is the ultimate finish line as you grab the belay devices, carabiners, and necessary ropes to reach the heights of the Harau Valley. This valley is infrequently visited so that you may have the whole valley all to yourself."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Relaxing is one of the best time-elapsing activities here. Order a cup of coffee and local delicacies and setlle down to write the last chapter of your travels and the extraordinary experiences you had in wonderful Indonesia. Take time for a short walk around the village and watch how people live. Some of the women here work in the rice fields while men plough the fields behind water buffalos, providing the perfect shot for you to take."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Public transportation is available for those wishing to spend the entire vacation time in and around Bukittinggi. Else, renting a minivan or a motorbike will guarantee the time well spent for day trippers to these Minangkabau highlands."
+            android:textSize="15sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/backHarau"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="back"/>
+
+            <Button
+                android:id="@+id/nextHarau"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="next"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

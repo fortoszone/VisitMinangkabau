@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bukit"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#7e57c2"
+            android:padding="16dp"
+            android:text="Bukittinggi"
+            android:textColor="#fff"
+            android:textSize="24sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:text="    Bukittinggi is one of towns in Indonesia settled in West Sumatra province. Bukittinggi is surrounded by three volcanoes mountain which is Mount Singgalang, Mount Marapi and Mount Sago."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Bukittinggi in Dutch Colonial was become an important area, for they build their defensive fort in 1825 and still exist until present days known as Fort De Kock. This town also became the resting place of Dutch officers who are settled in the area towns."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    In Japan colonialism, Bukittinggi was used as a control center for the military government’s of Sumatra region, even to Singapore and Thailand, because here was the location to the 25th Military commanders."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    During the Indonesia’s independence struggle, Bukitinggi roled as the city struggles. From December 1948 until June 1949, it was appointed as the capital of Bukittinggi Emergency Government of the Republic of Indonesia (PDRI), after Yogyakarta was falling into the hands of the Dutch."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Bukittinggi is known as “Tourism City” for there are lots of destinations in this city that worth to be visited. For instance, Sianok Canyon and Panorama park. In Panorama park, there is Lobang Jepang or Japanese Hole that being used by Japan hideaway when the era of world war II. There is also Bundo Kanduang Park, which used to be the museum of Rumah Gadang replica. Moreover, Jam Gadang is the icon of Bukittinggi, a big watch in the heart of the city seemslike a well-known Big Ben in London. Jam Gadang is near to Pasar Atas, a traditional market and the center of handicraft and West Sumatra souvenirs."
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="    Geographically, Bukittinggi is consist of hills area and that makes the road is up and down. Therefore, since the new order, Bukittinggi was divided into 5 corners or Kurai Limo Jorong: Jorong Guguak Panjang, Jorong Mandiangin Koto Selayan, Jorong Bukit Apik Pintu Kabun, Jorong Aua Birugo, and Jorong Tigo Baleh."
+            android:textSize="15sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/backBukit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="back"/>
+
+            <Button
+                android:id="@+id/nextBukit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="next"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
